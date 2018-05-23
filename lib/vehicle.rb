@@ -1,3 +1,4 @@
+# This is the Parent class, or Superclass.
 class Vehicle
 
   attr_accessor :wheel_size, :wheel_number
