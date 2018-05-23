@@ -3,7 +3,7 @@ require_relative "./vehicle.rb"
 
 class Car < Vehicle
 
-  # You can overwrite the inherited method (from vehicle.rb - the Superclass)
+  # You can overwrite an inherited method (from vehicle.rb - the Superclass)
   class Car < Vehicle
   def go
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
